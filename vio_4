@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-01T06:13:51.782Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="qzIpFLJxnv2sYFHo9EBy" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-01T06:14:30.033Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Jb3oMt-d4gmlCY9z-2DV" version="24.3.1" type="github">
   <diagram name="Page-1" id="vrSUd2ARD7RnW_mX515P">
     <mxGraphModel dx="1364" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -75,6 +75,9 @@
         </mxCell>
         <mxCell id="NOtmaJoT50bLvz8fiAfv-2" value="R: 1 0 0&#xa;0 1 0&#xa;0 0 1&#xa;t: 0 0 0&#xa;R:  0.987688 -0.156434         0&#xa; 0.156434  0.987688         0&#xa;        0         0         1&#xa;t: -0.0984933    1.25148   0.309017&#xa;R:  0.951057 -0.309017         0&#xa; 0.309017  0.951057         0&#xa;        0         0         1&#xa;t: -0.391548   2.47214  0.587785&#xa;R: 0.891007 -0.45399        0&#xa; 0.45399 0.891007        0&#xa;       0        0        1&#xa;t: -0.871948   3.63192  0.809017&#xa;R:  0.809017 -0.587785         0&#xa; 0.587785  0.809017         0&#xa;        0         0         1&#xa;t: -1.52786  4.70228 0.951057&#xa;R:  0.707107 -0.707107         0&#xa; 0.707107  0.707107         0&#xa;        0         0         1&#xa;t: -2.34315  5.65685        1&#xa;R:  0.587785 -0.809017         0&#xa; 0.809017  0.587785         0&#xa;        0         0         1&#xa;t: -3.29772  6.47214 0.951057&#xa;R:   0.45399 -0.891007         0&#xa; 0.891007   0.45399         0&#xa;        0         0         1&#xa;t: -4.36808  7.12805 0.809017&#xa;R:  0.309017 -0.951057         0&#xa; 0.951057  0.309017         0&#xa;        0         0         1&#xa;t: -5.52786  7.60845 0.587785&#xa;R:  0.156434 -0.987688         0&#xa; 0.987688  0.156434         0&#xa;        0         0         1&#xa;t: -6.74852  7.90151 0.309017" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="120" y="2070" width="200" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="NOtmaJoT50bLvz8fiAfv-3" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;生成10个相机的位姿&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="2190" width="450" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
