@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-01T06:20:16.368Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="dcgR-GY_axM1zp4b_jEf" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-01T06:21:22.788Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="O2r70CHOq-xxQjnvm-pQ" version="24.3.1" type="github">
   <diagram name="Page-1" id="vrSUd2ARD7RnW_mX515P">
     <mxGraphModel dx="1364" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -85,8 +85,11 @@
         <mxCell id="NOtmaJoT50bLvz8fiAfv-6" value="&lt;div style=&quot;color: #cccccc;background-color: #1f1f1f;font-family: &#39;Droid Sans Mono&#39;, &#39;monospace&#39;, monospace;font-weight: normal;font-size: 20px;line-height: 27px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #569cd6;&quot;&gt;int&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #9cdcfe;&quot;&gt;featureNums&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #b5cea8;&quot;&gt;20&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="2940" width="290" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="NOtmaJoT50bLvz8fiAfv-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;生成均匀分布的三维空间点&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="3030" width="450" height="50" as="geometry" />
+        <mxCell id="NOtmaJoT50bLvz8fiAfv-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;生成均匀分布的三维空间点x 和 y 坐标的范围是 [-4, 4]，z 坐标的范围是 [8, 10]&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="3070" width="450" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NOtmaJoT50bLvz8fiAfv-8" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;将空间点存储在Pw中&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="3180" width="450" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
